@@ -6,37 +6,23 @@
   the image I used and my overall desktop theme (see here:
   https://i.imgur.com/gxMdNKi.png).*/
 :root {
-	--red: #4c788c;
-	--white: #13678a;
-	--yellow: #c1627b;
-
-	--bg: #282828;
-	--fg: #3f3f3f;
-
-	/* --red: #BD9980;
+	--red: #BD9980;
 	--white: #DCDCCC;
 	--yellow: #f0dfaf;
 
 	--bg: #282828;
-	--fg: #3f3f3f; */
+	--fg: #3f3f3f;
 
 	--search-bg: rgba(255, 255, 255, 0);
 	}
 
 .lightmode {
-	--red: #4c788c;
-	--white: #6ba9ba;
-	--yellow: #31334f;
-
-	--bg: #f0f0f0;
-	--fg: #e7e7e7;
-
-	/* --red: #5f605b;
+	--red: #5f605b;
 	--white: #7f807b;
 	--yellow: #494846;
 
 	--bg: #f0f0f0;
-	--fg: #e7e7e7; */
+	--fg: #e7e7e7;
 
 	--search-bg: rgba(255, 255, 255, 0);
 }
